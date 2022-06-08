@@ -1,0 +1,9 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git
+O git é um sistema de versionamento de código, serve para monitorar diferentes versões do nosso código.
+Benefícios:
+1. Controle de versão;
+2. Armazenamento em nuvem;
+3. Trabalho em equipe;
+4. Melhorar seu código;
+5. Reconhecimento
